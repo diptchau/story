@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    margin-top: 60vh;
+    padding-top: 5vh;
+    outline: 1px dashed orange;
+}
+
+#floor {
+    height: 30vh;
+    width: 100%;
+    background-color: black;
+}
+
+#understand {
+    height: 20vh;
+    width: 100%;
+    background-color: green;
+}
+
+#person {
+    height: 27vh;
+    width: 120px;
+    background-color: blue;
+    margin-left: -100px;
+}
